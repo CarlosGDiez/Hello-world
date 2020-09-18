@@ -1,0 +1,857 @@
+﻿Country;Indicator;Nombres de medidas;Year;Prom. Percentile Rank;Valores de medidas
+Singapore;Government Effectiveness;Standard Error;2018;100;0,213245273
+Singapore;Government Effectiveness;Percentile Rank;2018;100;100
+Singapore;Government Effectiveness;Governance (-2.5 to +2.5);2018;100;2,231474400
+Singapore;Government Effectiveness;Number of Sources;2018;100;8
+Switzerland;Government Effectiveness;Standard Error;2018;99,519233704;0,222144589
+Switzerland;Government Effectiveness;Percentile Rank;2018;99,519233704;99,519233704
+Switzerland;Government Effectiveness;Governance (-2.5 to +2.5);2018;99,519233704;2,039620876
+Switzerland;Government Effectiveness;Number of Sources;2018;99,519233704;7
+Finland;Government Effectiveness;Standard Error;2018;99,038459778;0,222144589
+Finland;Government Effectiveness;Percentile Rank;2018;99,038459778;99,038459778
+Finland;Government Effectiveness;Governance (-2.5 to +2.5);2018;99,038459778;1,984208465
+Finland;Government Effectiveness;Number of Sources;2018;99,038459778;7
+Andorra;Government Effectiveness;Standard Error;2018;98,557693481;0,458574533
+Andorra;Government Effectiveness;Percentile Rank;2018;98,557693481;98,557693481
+Andorra;Government Effectiveness;Governance (-2.5 to +2.5);2018;98,557693481;1,944975734
+Andorra;Government Effectiveness;Number of Sources;2018;98,557693481;1
+Hong Kong SAR, China;Government Effectiveness;Standard Error;2018;98,076919556;0,222144589
+Hong Kong SAR, China;Government Effectiveness;Percentile Rank;2018;98,076919556;98,076919556
+Hong Kong SAR, China;Government Effectiveness;Governance (-2.5 to +2.5);2018;98,076919556;1,903607011
+Hong Kong SAR, China;Government Effectiveness;Number of Sources;2018;98,076919556;7
+Norway;Government Effectiveness;Standard Error;2018;97,596153259;0,222144589
+Norway;Government Effectiveness;Percentile Rank;2018;97,596153259;97,596153259
+Norway;Government Effectiveness;Governance (-2.5 to +2.5);2018;97,596153259;1,887119412
+Norway;Government Effectiveness;Number of Sources;2018;97,596153259;7
+Denmark;Government Effectiveness;Standard Error;2018;97,115386963;0,222144589
+Denmark;Government Effectiveness;Percentile Rank;2018;97,115386963;97,115386963
+Denmark;Government Effectiveness;Governance (-2.5 to +2.5);2018;97,115386963;1,871631145
+Denmark;Government Effectiveness;Number of Sources;2018;97,115386963;7
+Netherlands;Government Effectiveness;Standard Error;2018;96,634613037;0,222144589
+Netherlands;Government Effectiveness;Percentile Rank;2018;96,634613037;96,634613037
+Netherlands;Government Effectiveness;Governance (-2.5 to +2.5);2018;96,634613037;1,850465655
+Netherlands;Government Effectiveness;Number of Sources;2018;96,634613037;7
+Sweden;Government Effectiveness;Standard Error;2018;96,153846741;0,222144589
+Sweden;Government Effectiveness;Percentile Rank;2018;96,153846741;96,153846741
+Sweden;Government Effectiveness;Governance (-2.5 to +2.5);2018;96,153846741;1,830975056
+Sweden;Government Effectiveness;Number of Sources;2018;96,153846741;7
+Luxembourg;Government Effectiveness;Standard Error;2018;95,673080444;0,222144589
+Luxembourg;Government Effectiveness;Percentile Rank;2018;95,673080444;95,673080444
+Luxembourg;Government Effectiveness;Governance (-2.5 to +2.5);2018;95,673080444;1,778221369
+Luxembourg;Government Effectiveness;Number of Sources;2018;95,673080444;7
+Liechtenstein;Government Effectiveness;Standard Error;2018;95,192306519;0,331871510
+Liechtenstein;Government Effectiveness;Percentile Rank;2018;95,192306519;95,192306519
+Liechtenstein;Government Effectiveness;Governance (-2.5 to +2.5);2018;95,192306519;1,739036679
+Liechtenstein;Government Effectiveness;Number of Sources;2018;95,192306519;2
+Canada;Government Effectiveness;Standard Error;2018;94,711540222;0,222144589
+Canada;Government Effectiveness;Percentile Rank;2018;94,711540222;94,711540222
+Canada;Government Effectiveness;Governance (-2.5 to +2.5);2018;94,711540222;1,716108322
+Canada;Government Effectiveness;Number of Sources;2018;94,711540222;7
+Japan;Government Effectiveness;Standard Error;2018;94,230766296;0,222144589
+Japan;Government Effectiveness;Percentile Rank;2018;94,230766296;94,230766296
+Japan;Government Effectiveness;Governance (-2.5 to +2.5);2018;94,230766296;1,675817490
+Japan;Government Effectiveness;Number of Sources;2018;94,230766296;7
+New Zealand;Government Effectiveness;Standard Error;2018;93,75;0,222144589
+New Zealand;Government Effectiveness;Percentile Rank;2018;93,75;93,75
+New Zealand;Government Effectiveness;Governance (-2.5 to +2.5);2018;93,75;1,670251369
+New Zealand;Government Effectiveness;Number of Sources;2018;93,75;7
+Germany;Government Effectiveness;Standard Error;2018;93,269233704;0,222144589
+Germany;Government Effectiveness;Percentile Rank;2018;93,269233704;93,269233704
+Germany;Government Effectiveness;Governance (-2.5 to +2.5);2018;93,269233704;1,619632840
+Germany;Government Effectiveness;Number of Sources;2018;93,269233704;7
+Australia;Government Effectiveness;Standard Error;2018;92,788459778;0,222144589
+Australia;Government Effectiveness;Percentile Rank;2018;92,788459778;92,788459778
+Australia;Government Effectiveness;Governance (-2.5 to +2.5);2018;92,788459778;1,596494913
+Australia;Government Effectiveness;Number of Sources;2018;92,788459778;7
+United States;Government Effectiveness;Standard Error;2018;92,307693481;0,222144589
+United States;Government Effectiveness;Percentile Rank;2018;92,307693481;92,307693481
+United States;Government Effectiveness;Governance (-2.5 to +2.5);2018;92,307693481;1,576998353
+United States;Government Effectiveness;Number of Sources;2018;92,307693481;7
+France;Government Effectiveness;Standard Error;2018;91,826919556;0,222144589
+France;Government Effectiveness;Percentile Rank;2018;91,826919556;91,826919556
+France;Government Effectiveness;Governance (-2.5 to +2.5);2018;91,826919556;1,480525851
+France;Government Effectiveness;Number of Sources;2018;91,826919556;7
+Iceland;Government Effectiveness;Standard Error;2018;91,346153259;0,222144589
+Iceland;Government Effectiveness;Percentile Rank;2018;91,346153259;91,346153259
+Iceland;Government Effectiveness;Governance (-2.5 to +2.5);2018;91,346153259;1,465654731
+Iceland;Government Effectiveness;Number of Sources;2018;91,346153259;7
+Austria;Government Effectiveness;Standard Error;2018;90,865386963;0,222144589
+Austria;Government Effectiveness;Percentile Rank;2018;90,865386963;90,865386963
+Austria;Government Effectiveness;Governance (-2.5 to +2.5);2018;90,865386963;1,453342438
+Austria;Government Effectiveness;Number of Sources;2018;90,865386963;7
+United Arab Emirates;Government Effectiveness;Standard Error;2018;90,384613037;0,213245273
+United Arab Emirates;Government Effectiveness;Percentile Rank;2018;90,384613037;90,384613037
+United Arab Emirates;Government Effectiveness;Governance (-2.5 to +2.5);2018;90,384613037;1,431290984
+United Arab Emirates;Government Effectiveness;Number of Sources;2018;90,384613037;8
+Ireland;Government Effectiveness;Standard Error;2018;89,903846741;0,222144589
+Ireland;Government Effectiveness;Percentile Rank;2018;89,903846741;89,903846741
+Ireland;Government Effectiveness;Governance (-2.5 to +2.5);2018;89,903846741;1,420338392
+Ireland;Government Effectiveness;Number of Sources;2018;89,903846741;7
+French Guiana;Government Effectiveness;Standard Error;2018;89,423080444;0,331871510
+French Guiana;Government Effectiveness;Percentile Rank;2018;89,423080444;89,423080444
+French Guiana;Government Effectiveness;Governance (-2.5 to +2.5);2018;89,423080444;1,397862554
+French Guiana;Government Effectiveness;Number of Sources;2018;89,423080444;2
+Bermuda;Government Effectiveness;Standard Error;2018;88,942306519;0,458574533
+Bermuda;Government Effectiveness;Percentile Rank;2018;88,942306519;88,942306519
+Bermuda;Government Effectiveness;Governance (-2.5 to +2.5);2018;88,942306519;1,387551308
+Bermuda;Government Effectiveness;Number of Sources;2018;88,942306519;1
+Taiwan, China;Government Effectiveness;Standard Error;2018;88,461540222;0,213245273
+Taiwan, China;Government Effectiveness;Percentile Rank;2018;88,461540222;88,461540222
+Taiwan, China;Government Effectiveness;Governance (-2.5 to +2.5);2018;88,461540222;1,362331152
+Taiwan, China;Government Effectiveness;Number of Sources;2018;88,461540222;8
+United Kingdom;Government Effectiveness;Standard Error;2018;87,980766296;0,222144589
+United Kingdom;Government Effectiveness;Percentile Rank;2018;87,980766296;87,980766296
+United Kingdom;Government Effectiveness;Governance (-2.5 to +2.5);2018;87,980766296;1,341883779
+United Kingdom;Government Effectiveness;Number of Sources;2018;87,980766296;7
+Jersey, Channel Islands;Government Effectiveness;Standard Error;2018;87,5;0,437525630
+Jersey, Channel Islands;Government Effectiveness;Percentile Rank;2018;87,5;87,5
+Jersey, Channel Islands;Government Effectiveness;Governance (-2.5 to +2.5);2018;87,5;1,259951234
+Jersey, Channel Islands;Government Effectiveness;Number of Sources;2018;87,5;1
+Brunei Darussalam;Government Effectiveness;Standard Error;2018;87,019233704;0,241633266
+Brunei Darussalam;Government Effectiveness;Percentile Rank;2018;87,019233704;87,019233704
+Brunei Darussalam;Government Effectiveness;Governance (-2.5 to +2.5);2018;87,019233704;1,252714276
+Brunei Darussalam;Government Effectiveness;Number of Sources;2018;87,019233704;5
+Portugal;Government Effectiveness;Standard Error;2018;86,538459778;0,222144589
+Portugal;Government Effectiveness;Percentile Rank;2018;86,538459778;86,538459778
+Portugal;Government Effectiveness;Governance (-2.5 to +2.5);2018;86,538459778;1,208908916
+Portugal;Government Effectiveness;Number of Sources;2018;86,538459778;7
+Israel;Government Effectiveness;Standard Error;2018;86,057693481;0,222144589
+Israel;Government Effectiveness;Percentile Rank;2018;86,057693481;86,057693481
+Israel;Government Effectiveness;Governance (-2.5 to +2.5);2018;86,057693481;1,208207250
+Israel;Government Effectiveness;Number of Sources;2018;86,057693481;7
+Macao SAR, China;Government Effectiveness;Standard Error;2018;85,576919556;0,331871510
+Macao SAR, China;Government Effectiveness;Percentile Rank;2018;85,576919556;85,576919556
+Macao SAR, China;Government Effectiveness;Governance (-2.5 to +2.5);2018;85,576919556;1,204365969
+Macao SAR, China;Government Effectiveness;Number of Sources;2018;85,576919556;2
+Cayman Islands;Government Effectiveness;Standard Error;2018;85,576919556;0,331871510
+Cayman Islands;Government Effectiveness;Percentile Rank;2018;85,576919556;85,576919556
+Cayman Islands;Government Effectiveness;Governance (-2.5 to +2.5);2018;85,576919556;1,204365969
+Cayman Islands;Government Effectiveness;Number of Sources;2018;85,576919556;2
+Estonia;Government Effectiveness;Standard Error;2018;84,615386963;0,213245273
+Estonia;Government Effectiveness;Percentile Rank;2018;84,615386963;84,615386963
+Estonia;Government Effectiveness;Governance (-2.5 to +2.5);2018;84,615386963;1,191937923
+Estonia;Government Effectiveness;Number of Sources;2018;84,615386963;8
+Korea, Rep.;Government Effectiveness;Standard Error;2018;84,134613037;0,213245273
+Korea, Rep.;Government Effectiveness;Percentile Rank;2018;84,134613037;84,134613037
+Korea, Rep.;Government Effectiveness;Governance (-2.5 to +2.5);2018;84,134613037;1,182664871
+Korea, Rep.;Government Effectiveness;Number of Sources;2018;84,134613037;8
+Belgium;Government Effectiveness;Standard Error;2018;83,653846741;0,222144589
+Belgium;Government Effectiveness;Percentile Rank;2018;83,653846741;83,653846741
+Belgium;Government Effectiveness;Governance (-2.5 to +2.5);2018;83,653846741;1,171748161
+Belgium;Government Effectiveness;Number of Sources;2018;83,653846741;7
+Slovenia;Government Effectiveness;Standard Error;2018;83,173080444;0,213245273
+Slovenia;Government Effectiveness;Percentile Rank;2018;83,173080444;83,173080444
+Slovenia;Government Effectiveness;Governance (-2.5 to +2.5);2018;83,173080444;1,125805974
+Slovenia;Government Effectiveness;Number of Sources;2018;83,173080444;8
+Réunion;Government Effectiveness;Standard Error;2018;82,692306519;0,458574533
+Réunion;Government Effectiveness;Percentile Rank;2018;82,692306519;82,692306519
+Réunion;Government Effectiveness;Governance (-2.5 to +2.5);2018;82,692306519;1,108839154
+Réunion;Government Effectiveness;Number of Sources;2018;82,692306519;1
+Martinique;Government Effectiveness;Standard Error;2018;82,692306519;0,458574533
+Martinique;Government Effectiveness;Percentile Rank;2018;82,692306519;82,692306519
+Martinique;Government Effectiveness;Governance (-2.5 to +2.5);2018;82,692306519;1,108839154
+Martinique;Government Effectiveness;Number of Sources;2018;82,692306519;1
+Chile;Government Effectiveness;Standard Error;2018;81,730766296;0,185409546
+Chile;Government Effectiveness;Percentile Rank;2018;81,730766296;81,730766296
+Chile;Government Effectiveness;Governance (-2.5 to +2.5);2018;81,730766296;1,084033728
+Chile;Government Effectiveness;Number of Sources;2018;81,730766296;10
+Malaysia;Government Effectiveness;Standard Error;2018;81,25;0,200099692
+Malaysia;Government Effectiveness;Percentile Rank;2018;81,25;81,25
+Malaysia;Government Effectiveness;Governance (-2.5 to +2.5);2018;81,25;1,075348139
+Malaysia;Government Effectiveness;Number of Sources;2018;81,25;8
+Lithuania;Government Effectiveness;Standard Error;2018;80,769233704;0,213245273
+Lithuania;Government Effectiveness;Percentile Rank;2018;80,769233704;80,769233704
+Lithuania;Government Effectiveness;Governance (-2.5 to +2.5);2018;80,769233704;1,072397828
+Lithuania;Government Effectiveness;Number of Sources;2018;80,769233704;8
+Aruba;Government Effectiveness;Standard Error;2018;80,288459778;0,331871510
+Aruba;Government Effectiveness;Percentile Rank;2018;80,288459778;80,288459778
+Aruba;Government Effectiveness;Governance (-2.5 to +2.5);2018;80,288459778;1,058391690
+Aruba;Government Effectiveness;Number of Sources;2018;80,288459778;2
+Latvia;Government Effectiveness;Standard Error;2018;79,807693481;0,213245273
+Latvia;Government Effectiveness;Percentile Rank;2018;79,807693481;79,807693481
+Latvia;Government Effectiveness;Governance (-2.5 to +2.5);2018;79,807693481;1,043451786
+Latvia;Government Effectiveness;Number of Sources;2018;79,807693481;8
+Spain;Government Effectiveness;Standard Error;2018;79,326919556;0,222144589
+Spain;Government Effectiveness;Percentile Rank;2018;79,326919556;79,326919556
+Spain;Government Effectiveness;Governance (-2.5 to +2.5);2018;79,326919556;1,002135754
+Spain;Government Effectiveness;Number of Sources;2018;79,326919556;7
+Malta;Government Effectiveness;Standard Error;2018;78,846153259;0,238482192
+Malta;Government Effectiveness;Percentile Rank;2018;78,846153259;78,846153259
+Malta;Government Effectiveness;Governance (-2.5 to +2.5);2018;78,846153259;0,968795955
+Malta;Government Effectiveness;Number of Sources;2018;78,846153259;6
+Czech Republic;Government Effectiveness;Standard Error;2018;78,365386963;0,213245273
+Czech Republic;Government Effectiveness;Percentile Rank;2018;78,365386963;78,365386963
+Czech Republic;Government Effectiveness;Governance (-2.5 to +2.5);2018;78,365386963;0,922208071
+Czech Republic;Government Effectiveness;Number of Sources;2018;78,365386963;8
+Cyprus;Government Effectiveness;Standard Error;2018;77,884613037;0,222144589
+Cyprus;Government Effectiveness;Percentile Rank;2018;77,884613037;77,884613037
+Cyprus;Government Effectiveness;Governance (-2.5 to +2.5);2018;77,884613037;0,920902193
+Cyprus;Government Effectiveness;Number of Sources;2018;77,884613037;7
+Mauritius;Government Effectiveness;Standard Error;2018;77,403846741;0,189015836
+Mauritius;Government Effectiveness;Percentile Rank;2018;77,403846741;77,403846741
+Mauritius;Government Effectiveness;Governance (-2.5 to +2.5);2018;77,403846741;0,876084864
+Mauritius;Government Effectiveness;Number of Sources;2018;77,403846741;11
+Greenland;Government Effectiveness;Standard Error;2018;76,923080444;0,437525630
+Greenland;Government Effectiveness;Percentile Rank;2018;76,923080444;76,923080444
+Greenland;Government Effectiveness;Governance (-2.5 to +2.5);2018;76,923080444;0,838082671
+Greenland;Government Effectiveness;Number of Sources;2018;76,923080444;1
+Virgin Islands (U.S.);Government Effectiveness;Standard Error;2018;76,442306519;0,458574533
+Virgin Islands (U.S.);Government Effectiveness;Percentile Rank;2018;76,442306519;76,442306519
+Virgin Islands (U.S.);Government Effectiveness;Governance (-2.5 to +2.5);2018;76,442306519;0,830126941
+Virgin Islands (U.S.);Government Effectiveness;Number of Sources;2018;76,442306519;1
+Anguilla;Government Effectiveness;Standard Error;2018;76,442306519;0,458574533
+Anguilla;Government Effectiveness;Percentile Rank;2018;76,442306519;76,442306519
+Anguilla;Government Effectiveness;Governance (-2.5 to +2.5);2018;76,442306519;0,830126941
+Anguilla;Government Effectiveness;Number of Sources;2018;76,442306519;1
+Slovak Republic;Government Effectiveness;Standard Error;2018;75,480766296;0,213245273
+Slovak Republic;Government Effectiveness;Percentile Rank;2018;75,480766296;75,480766296
+Slovak Republic;Government Effectiveness;Governance (-2.5 to +2.5);2018;75,480766296;0,707461536
+Slovak Republic;Government Effectiveness;Number of Sources;2018;75,480766296;8
+Poland;Government Effectiveness;Standard Error;2018;75;0,213245273
+Poland;Government Effectiveness;Percentile Rank;2018;75;75
+Poland;Government Effectiveness;Governance (-2.5 to +2.5);2018;75;0,662650824
+Poland;Government Effectiveness;Number of Sources;2018;75;8
+Qatar;Government Effectiveness;Standard Error;2018;74,519233704;0,215489164
+Qatar;Government Effectiveness;Percentile Rank;2018;74,519233704;74,519233704
+Qatar;Government Effectiveness;Governance (-2.5 to +2.5);2018;74,519233704;0,631236374
+Qatar;Government Effectiveness;Number of Sources;2018;74,519233704;7
+Georgia;Government Effectiveness;Standard Error;2018;74,038459778;0,219213381
+Georgia;Government Effectiveness;Percentile Rank;2018;74,038459778;74,038459778
+Georgia;Government Effectiveness;Governance (-2.5 to +2.5);2018;74,038459778;0,614570916
+Georgia;Government Effectiveness;Number of Sources;2018;74,038459778;8
+Samoa;Government Effectiveness;Standard Error;2018;73,557693481;0,349104464
+Samoa;Government Effectiveness;Percentile Rank;2018;73,557693481;73,557693481
+Samoa;Government Effectiveness;Governance (-2.5 to +2.5);2018;73,557693481;0,590758741
+Samoa;Government Effectiveness;Number of Sources;2018;73,557693481;3
+Uruguay;Government Effectiveness;Standard Error;2018;73,076919556;0,191959038
+Uruguay;Government Effectiveness;Percentile Rank;2018;73,076919556;73,076919556
+Uruguay;Government Effectiveness;Governance (-2.5 to +2.5);2018;73,076919556;0,558214784
+Uruguay;Government Effectiveness;Number of Sources;2018;73,076919556;10
+St. Kitts and Nevis;Government Effectiveness;Standard Error;2018;72,596153259;0,458574533
+St. Kitts and Nevis;Government Effectiveness;Percentile Rank;2018;72,596153259;72,596153259
+St. Kitts and Nevis;Government Effectiveness;Governance (-2.5 to +2.5);2018;72,596153259;0,551414788
+St. Kitts and Nevis;Government Effectiveness;Number of Sources;2018;72,596153259;1
+American Samoa;Government Effectiveness;Standard Error;2018;72,596153259;0,458574533
+American Samoa;Government Effectiveness;Percentile Rank;2018;72,596153259;72,596153259
+American Samoa;Government Effectiveness;Governance (-2.5 to +2.5);2018;72,596153259;0,551414788
+American Samoa;Government Effectiveness;Number of Sources;2018;72,596153259;1
+Bahamas, The;Government Effectiveness;Standard Error;2018;71,634613037;0,291738719
+Bahamas, The;Government Effectiveness;Percentile Rank;2018;71,634613037;71,634613037
+Bahamas, The;Government Effectiveness;Governance (-2.5 to +2.5);2018;71,634613037;0,539149940
+Bahamas, The;Government Effectiveness;Number of Sources;2018;71,634613037;3
+Seychelles;Government Effectiveness;Standard Error;2018;71,153846741;0,206231818
+Seychelles;Government Effectiveness;Percentile Rank;2018;71,153846741;71,153846741
+Seychelles;Government Effectiveness;Governance (-2.5 to +2.5);2018;71,153846741;0,502283990
+Seychelles;Government Effectiveness;Number of Sources;2018;71,153846741;7
+Jamaica;Government Effectiveness;Standard Error;2018;70,673080444;0,211791500
+Jamaica;Government Effectiveness;Percentile Rank;2018;70,673080444;70,673080444
+Jamaica;Government Effectiveness;Governance (-2.5 to +2.5);2018;70,673080444;0,496711224
+Jamaica;Government Effectiveness;Number of Sources;2018;70,673080444;7
+Hungary;Government Effectiveness;Standard Error;2018;70,192306519;0,213245273
+Hungary;Government Effectiveness;Percentile Rank;2018;70,192306519;70,192306519
+Hungary;Government Effectiveness;Governance (-2.5 to +2.5);2018;70,192306519;0,487310886
+Hungary;Government Effectiveness;Number of Sources;2018;70,192306519;8
+China;Government Effectiveness;Standard Error;2018;69,711540222;0,195512146
+China;Government Effectiveness;Percentile Rank;2018;69,711540222;69,711540222
+China;Government Effectiveness;Governance (-2.5 to +2.5);2018;69,711540222;0,477128386
+China;Government Effectiveness;Number of Sources;2018;69,711540222;10
+Croatia;Government Effectiveness;Standard Error;2018;69,230766296;0,198299184
+Croatia;Government Effectiveness;Percentile Rank;2018;69,230766296;69,230766296
+Croatia;Government Effectiveness;Governance (-2.5 to +2.5);2018;69,230766296;0,456918329
+Croatia;Government Effectiveness;Number of Sources;2018;69,230766296;9
+Barbados;Government Effectiveness;Standard Error;2018;68,75;0,331871510
+Barbados;Government Effectiveness;Percentile Rank;2018;68,75;68,75
+Barbados;Government Effectiveness;Governance (-2.5 to +2.5);2018;68,75;0,426972657
+Barbados;Government Effectiveness;Number of Sources;2018;68,75;2
+Italy;Government Effectiveness;Standard Error;2018;68,269233704;0,222144589
+Italy;Government Effectiveness;Percentile Rank;2018;68,269233704;68,269233704
+Italy;Government Effectiveness;Governance (-2.5 to +2.5);2018;68,269233704;0,413883507
+Italy;Government Effectiveness;Number of Sources;2018;68,269233704;7
+Costa Rica;Government Effectiveness;Standard Error;2018;67,788459778;0,208658576
+Costa Rica;Government Effectiveness;Percentile Rank;2018;67,788459778;67,788459778
+Costa Rica;Government Effectiveness;Governance (-2.5 to +2.5);2018;67,788459778;0,378186762
+Costa Rica;Government Effectiveness;Number of Sources;2018;67,788459778;8
+Bhutan;Government Effectiveness;Standard Error;2018;67,307693481;0,264850825
+Bhutan;Government Effectiveness;Percentile Rank;2018;67,307693481;67,307693481
+Bhutan;Government Effectiveness;Governance (-2.5 to +2.5);2018;67,307693481;0,358897328
+Bhutan;Government Effectiveness;Number of Sources;2018;67,307693481;5
+Thailand;Government Effectiveness;Standard Error;2018;66,826919556;0,198299184
+Thailand;Government Effectiveness;Percentile Rank;2018;66,826919556;66,826919556
+Thailand;Government Effectiveness;Governance (-2.5 to +2.5);2018;66,826919556;0,349959552
+Thailand;Government Effectiveness;Number of Sources;2018;66,826919556;9
+South Africa;Government Effectiveness;Standard Error;2018;66,346153259;0,173184544
+South Africa;Government Effectiveness;Percentile Rank;2018;66,346153259;66,346153259
+South Africa;Government Effectiveness;Governance (-2.5 to +2.5);2018;66,346153259;0,340378612
+South Africa;Government Effectiveness;Number of Sources;2018;66,346153259;13
+Greece;Government Effectiveness;Standard Error;2018;65,865386963;0,222144589
+Greece;Government Effectiveness;Percentile Rank;2018;65,865386963;65,865386963
+Greece;Government Effectiveness;Governance (-2.5 to +2.5);2018;65,865386963;0,338260889
+Greece;Government Effectiveness;Number of Sources;2018;65,865386963;7
+Botswana;Government Effectiveness;Standard Error;2018;65,384613037;0,187464803
+Botswana;Government Effectiveness;Percentile Rank;2018;65,384613037;65,384613037
+Botswana;Government Effectiveness;Governance (-2.5 to +2.5);2018;65,384613037;0,333441079
+Botswana;Government Effectiveness;Number of Sources;2018;65,384613037;11
+Saudi Arabia;Government Effectiveness;Standard Error;2018;64,903846741;0,213245273
+Saudi Arabia;Government Effectiveness;Percentile Rank;2018;64,903846741;64,903846741
+Saudi Arabia;Government Effectiveness;Governance (-2.5 to +2.5);2018;64,903846741;0,323498219
+Saudi Arabia;Government Effectiveness;Number of Sources;2018;64,903846741;8
+Cape Verde;Government Effectiveness;Standard Error;2018;64,423080444;0,205833465
+Cape Verde;Government Effectiveness;Percentile Rank;2018;64,423080444;64,423080444
+Cape Verde;Government Effectiveness;Governance (-2.5 to +2.5);2018;64,423080444;0,319239318
+Cape Verde;Government Effectiveness;Number of Sources;2018;64,423080444;8
+India;Government Effectiveness;Standard Error;2018;63,942306519;0,195512146
+India;Government Effectiveness;Percentile Rank;2018;63,942306519;63,942306519
+India;Government Effectiveness;Governance (-2.5 to +2.5);2018;63,942306519;0,283048511
+India;Government Effectiveness;Number of Sources;2018;63,942306519;10
+Guam;Government Effectiveness;Standard Error;2018;63,461540222;0,458574533
+Guam;Government Effectiveness;Percentile Rank;2018;63,461540222;63,461540222
+Guam;Government Effectiveness;Governance (-2.5 to +2.5);2018;63,461540222;0,272702605
+Guam;Government Effectiveness;Number of Sources;2018;63,461540222;1
+Bulgaria;Government Effectiveness;Standard Error;2018;62,980770111;0,198299184
+Bulgaria;Government Effectiveness;Percentile Rank;2018;62,980770111;62,980770111
+Bulgaria;Government Effectiveness;Governance (-2.5 to +2.5);2018;62,980770111;0,271875739
+Bulgaria;Government Effectiveness;Number of Sources;2018;62,980770111;9
+Fiji;Government Effectiveness;Standard Error;2018;62,5;0,349317253
+Fiji;Government Effectiveness;Percentile Rank;2018;62,5;62,5
+Fiji;Government Effectiveness;Governance (-2.5 to +2.5);2018;62,5;0,259536237
+Fiji;Government Effectiveness;Number of Sources;2018;62,5;2
+Rwanda;Government Effectiveness;Standard Error;2018;62,019229889;0,189324141
+Rwanda;Government Effectiveness;Percentile Rank;2018;62,019229889;62,019229889
+Rwanda;Government Effectiveness;Governance (-2.5 to +2.5);2018;62,019229889;0,206808910
+Rwanda;Government Effectiveness;Number of Sources;2018;62,019229889;10
+St. Vincent and the Grenadines;Government Effectiveness;Standard Error;2018;61,538459778;0,349317253
+St. Vincent and the Grenadines;Government Effectiveness;Percentile Rank;2018;61,538459778;61,538459778
+St. Vincent and the Grenadines;Government Effectiveness;Governance (-2.5 to +2.5);2018;61,538459778;0,195670322
+St. Vincent and the Grenadines;Government Effectiveness;Number of Sources;2018;61,538459778;2
+St. Lucia;Government Effectiveness;Standard Error;2018;61,538459778;0,349317253
+St. Lucia;Government Effectiveness;Percentile Rank;2018;61,538459778;61,538459778
+St. Lucia;Government Effectiveness;Governance (-2.5 to +2.5);2018;61,538459778;0,195670322
+St. Lucia;Government Effectiveness;Number of Sources;2018;61,538459778;2
+Trinidad and Tobago;Government Effectiveness;Standard Error;2018;60,576923370;0,223111048
+Trinidad and Tobago;Government Effectiveness;Percentile Rank;2018;60,576923370;60,576923370
+Trinidad and Tobago;Government Effectiveness;Governance (-2.5 to +2.5);2018;60,576923370;0,190237924
+Trinidad and Tobago;Government Effectiveness;Number of Sources;2018;60,576923370;6
+Oman;Government Effectiveness;Standard Error;2018;60,096153259;0,252532423
+Oman;Government Effectiveness;Percentile Rank;2018;60,096153259;60,096153259
+Oman;Government Effectiveness;Governance (-2.5 to +2.5);2018;60,096153259;0,186578199
+Oman;Government Effectiveness;Number of Sources;2018;60,096153259;5
+Bahrain;Government Effectiveness;Standard Error;2018;59,615383148;0,248941883
+Bahrain;Government Effectiveness;Percentile Rank;2018;59,615383148;59,615383148
+Bahrain;Government Effectiveness;Governance (-2.5 to +2.5);2018;59,615383148;0,179877430
+Bahrain;Government Effectiveness;Number of Sources;2018;59,615383148;6
+Indonesia;Government Effectiveness;Standard Error;2018;59,134616852;0,195512146
+Indonesia;Government Effectiveness;Percentile Rank;2018;59,134616852;59,134616852
+Indonesia;Government Effectiveness;Governance (-2.5 to +2.5);2018;59,134616852;0,179875433
+Indonesia;Government Effectiveness;Number of Sources;2018;59,134616852;10
+Tonga;Government Effectiveness;Standard Error;2018;58,653846741;0,334536105
+Tonga;Government Effectiveness;Percentile Rank;2018;58,653846741;58,653846741
+Tonga;Government Effectiveness;Governance (-2.5 to +2.5);2018;58,653846741;0,139354825
+Tonga;Government Effectiveness;Number of Sources;2018;58,653846741;4
+Montenegro;Government Effectiveness;Standard Error;2018;58,173076630;0,231838673
+Montenegro;Government Effectiveness;Percentile Rank;2018;58,173076630;58,173076630
+Montenegro;Government Effectiveness;Governance (-2.5 to +2.5);2018;58,173076630;0,131161496
+Montenegro;Government Effectiveness;Number of Sources;2018;58,173076630;7
+Albania;Government Effectiveness;Standard Error;2018;57,692306519;0,227570012
+Albania;Government Effectiveness;Percentile Rank;2018;57,692306519;57,692306519
+Albania;Government Effectiveness;Governance (-2.5 to +2.5);2018;57,692306519;0,114787988
+Albania;Government Effectiveness;Number of Sources;2018;57,692306519;7
+Jordan;Government Effectiveness;Standard Error;2018;57,211540222;0,195512146
+Jordan;Government Effectiveness;Percentile Rank;2018;57,211540222;57,211540222
+Jordan;Government Effectiveness;Governance (-2.5 to +2.5);2018;57,211540222;0,112717994
+Jordan;Government Effectiveness;Number of Sources;2018;57,211540222;10
+Serbia;Government Effectiveness;Standard Error;2018;56,730770111;0,227570012
+Serbia;Government Effectiveness;Percentile Rank;2018;56,730770111;56,730770111
+Serbia;Government Effectiveness;Governance (-2.5 to +2.5);2018;56,730770111;0,111619763
+Serbia;Government Effectiveness;Number of Sources;2018;56,730770111;7
+Namibia;Government Effectiveness;Standard Error;2018;56,25;0,193295255
+Namibia;Government Effectiveness;Percentile Rank;2018;56,25;56,25
+Namibia;Government Effectiveness;Governance (-2.5 to +2.5);2018;56,25;0,106441990
+Namibia;Government Effectiveness;Number of Sources;2018;56,25;10
+Macedonia, FYR;Government Effectiveness;Standard Error;2018;55,769229889;0,272504181
+Macedonia, FYR;Government Effectiveness;Percentile Rank;2018;55,769229889;55,769229889
+Macedonia, FYR;Government Effectiveness;Governance (-2.5 to +2.5);2018;55,769229889;0,090243079
+Macedonia, FYR;Government Effectiveness;Number of Sources;2018;55,769229889;5
+Philippines;Government Effectiveness;Standard Error;2018;55,288459778;0,195512146
+Philippines;Government Effectiveness;Percentile Rank;2018;55,288459778;55,288459778
+Philippines;Government Effectiveness;Governance (-2.5 to +2.5);2018;55,288459778;0,049509421
+Philippines;Government Effectiveness;Number of Sources;2018;55,288459778;10
+Argentina;Government Effectiveness;Standard Error;2018;54,807693481;0,183125407
+Argentina;Government Effectiveness;Percentile Rank;2018;54,807693481;54,807693481
+Argentina;Government Effectiveness;Governance (-2.5 to +2.5);2018;54,807693481;0,025987763
+Argentina;Government Effectiveness;Number of Sources;2018;54,807693481;11
+Kazakhstan;Government Effectiveness;Standard Error;2018;54,326923370;0,198299184
+Kazakhstan;Government Effectiveness;Percentile Rank;2018;54,326923370;54,326923370
+Kazakhstan;Government Effectiveness;Governance (-2.5 to +2.5);2018;54,326923370;0,021720437
+Kazakhstan;Government Effectiveness;Number of Sources;2018;54,326923370;9
+Turkey;Government Effectiveness;Standard Error;2018;53,846153259;0,208569989
+Turkey;Government Effectiveness;Percentile Rank;2018;53,846153259;53,846153259
+Turkey;Government Effectiveness;Governance (-2.5 to +2.5);2018;53,846153259;0,006096762
+Turkey;Government Effectiveness;Number of Sources;2018;53,846153259;9
+Vietnam;Government Effectiveness;Standard Error;2018;53,365383148;0,206374124
+Vietnam;Government Effectiveness;Percentile Rank;2018;53,365383148;53,365383148
+Vietnam;Government Effectiveness;Governance (-2.5 to +2.5);2018;53,365383148;-0,003444780
+Vietnam;Government Effectiveness;Number of Sources;2018;53,365383148;9
+Antigua and Barbuda;Government Effectiveness;Standard Error;2018;52,884616852;0,458574533
+Antigua and Barbuda;Government Effectiveness;Percentile Rank;2018;52,884616852;52,884616852
+Antigua and Barbuda;Government Effectiveness;Governance (-2.5 to +2.5);2018;52,884616852;-0,006009565
+Antigua and Barbuda;Government Effectiveness;Number of Sources;2018;52,884616852;1
+Palau;Government Effectiveness;Standard Error;2018;52,403846741;1,048438549
+Palau;Government Effectiveness;Percentile Rank;2018;52,403846741;52,403846741
+Palau;Government Effectiveness;Governance (-2.5 to +2.5);2018;52,403846741;-0,012124174
+Palau;Government Effectiveness;Number of Sources;2018;52,403846741;1
+Panama;Government Effectiveness;Standard Error;2018;51,923076630;0,194594845
+Panama;Government Effectiveness;Percentile Rank;2018;51,923076630;51,923076630
+Panama;Government Effectiveness;Governance (-2.5 to +2.5);2018;51,923076630;-0,019452030
+Panama;Government Effectiveness;Number of Sources;2018;51,923076630;9
+Armenia;Government Effectiveness;Standard Error;2018;51,442306519;0,206374124
+Armenia;Government Effectiveness;Percentile Rank;2018;51,442306519;51,442306519
+Armenia;Government Effectiveness;Governance (-2.5 to +2.5);2018;51,442306519;-0,024339372
+Armenia;Government Effectiveness;Number of Sources;2018;51,442306519;9
+Russian Federation;Government Effectiveness;Standard Error;2018;50,961540222;0,213245273
+Russian Federation;Government Effectiveness;Percentile Rank;2018;50,961540222;50,961540222
+Russian Federation;Government Effectiveness;Governance (-2.5 to +2.5);2018;50,961540222;-0,060885753
+Russian Federation;Government Effectiveness;Number of Sources;2018;50,961540222;8
+Nauru;Government Effectiveness;Standard Error;2018;50,480770111;1,048438549
+Nauru;Government Effectiveness;Percentile Rank;2018;50,480770111;50,480770111
+Nauru;Government Effectiveness;Governance (-2.5 to +2.5);2018;50,480770111;-0,076744027
+Nauru;Government Effectiveness;Number of Sources;2018;50,480770111;1
+Colombia;Government Effectiveness;Standard Error;2018;50;0,183125407
+Colombia;Government Effectiveness;Percentile Rank;2018;50;50
+Colombia;Government Effectiveness;Governance (-2.5 to +2.5);2018;50;-0,085226238
+Colombia;Government Effectiveness;Number of Sources;2018;50;11
+Kuwait;Government Effectiveness;Standard Error;2018;49,519229889;0,227570012
+Kuwait;Government Effectiveness;Percentile Rank;2018;49,519229889;49,519229889
+Kuwait;Government Effectiveness;Governance (-2.5 to +2.5);2018;49,519229889;-0,087805904
+Kuwait;Government Effectiveness;Number of Sources;2018;49,519229889;7
+Azerbaijan;Government Effectiveness;Standard Error;2018;49,038459778;0,223385483
+Azerbaijan;Government Effectiveness;Percentile Rank;2018;49,038459778;49,038459778
+Azerbaijan;Government Effectiveness;Governance (-2.5 to +2.5);2018;49,038459778;-0,100467414
+Azerbaijan;Government Effectiveness;Number of Sources;2018;49,038459778;8
+Tunisia;Government Effectiveness;Standard Error;2018;48,557693481;0,180598751
+Tunisia;Government Effectiveness;Percentile Rank;2018;48,557693481;48,557693481
+Tunisia;Government Effectiveness;Governance (-2.5 to +2.5);2018;48,557693481;-0,105261788
+Tunisia;Government Effectiveness;Number of Sources;2018;48,557693481;12
+Micronesia, Fed. Sts.;Government Effectiveness;Standard Error;2018;48,076923370;0,349104464
+Micronesia, Fed. Sts.;Government Effectiveness;Percentile Rank;2018;48,076923370;48,076923370
+Micronesia, Fed. Sts.;Government Effectiveness;Governance (-2.5 to +2.5);2018;48,076923370;-0,148862943
+Micronesia, Fed. Sts.;Government Effectiveness;Number of Sources;2018;48,076923370;3
+Mexico;Government Effectiveness;Standard Error;2018;47,596153259;0,183125407
+Mexico;Government Effectiveness;Percentile Rank;2018;47,596153259;47,596153259
+Mexico;Government Effectiveness;Governance (-2.5 to +2.5);2018;47,596153259;-0,153388038
+Mexico;Government Effectiveness;Number of Sources;2018;47,596153259;11
+Puerto Rico;Government Effectiveness;Standard Error;2018;47,115383148;0,331871510
+Puerto Rico;Government Effectiveness;Percentile Rank;2018;47,115383148;47,115383148
+Puerto Rico;Government Effectiveness;Governance (-2.5 to +2.5);2018;47,115383148;-0,156924009
+Puerto Rico;Government Effectiveness;Number of Sources;2018;47,115383148;2
+Morocco;Government Effectiveness;Standard Error;2018;46,634616852;0,180598751
+Morocco;Government Effectiveness;Percentile Rank;2018;46,634616852;46,634616852
+Morocco;Government Effectiveness;Governance (-2.5 to +2.5);2018;46,634616852;-0,209295884
+Morocco;Government Effectiveness;Number of Sources;2018;46,634616852;12
+Ghana;Government Effectiveness;Standard Error;2018;46,153846741;0,180598751
+Ghana;Government Effectiveness;Percentile Rank;2018;46,153846741;46,153846741
+Ghana;Government Effectiveness;Governance (-2.5 to +2.5);2018;46,153846741;-0,210270390
+Ghana;Government Effectiveness;Number of Sources;2018;46,153846741;12
+Mongolia;Government Effectiveness;Standard Error;2018;45,673076630;0,195474818
+Mongolia;Government Effectiveness;Percentile Rank;2018;45,673076630;45,673076630
+Mongolia;Government Effectiveness;Governance (-2.5 to +2.5);2018;45,673076630;-0,233347699
+Mongolia;Government Effectiveness;Number of Sources;2018;45,673076630;11
+Sri Lanka;Government Effectiveness;Standard Error;2018;45,192306519;0,208405986
+Sri Lanka;Government Effectiveness;Percentile Rank;2018;45,192306519;45,192306519
+Sri Lanka;Government Effectiveness;Governance (-2.5 to +2.5);2018;45,192306519;-0,235379338
+Sri Lanka;Government Effectiveness;Number of Sources;2018;45,192306519;8
+Cuba;Government Effectiveness;Standard Error;2018;44,711540222;0,246850327
+Cuba;Government Effectiveness;Percentile Rank;2018;44,711540222;44,711540222
+Cuba;Government Effectiveness;Governance (-2.5 to +2.5);2018;44,711540222;-0,244837821
+Cuba;Government Effectiveness;Number of Sources;2018;44,711540222;6
+Peru;Government Effectiveness;Standard Error;2018;44,230770111;0,183125407
+Peru;Government Effectiveness;Percentile Rank;2018;44,230770111;44,230770111
+Peru;Government Effectiveness;Governance (-2.5 to +2.5);2018;44,230770111;-0,245430946
+Peru;Government Effectiveness;Number of Sources;2018;44,230770111;11
+Grenada;Government Effectiveness;Standard Error;2018;43,75;0,334723353
+Grenada;Government Effectiveness;Percentile Rank;2018;43,75;43,75
+Grenada;Government Effectiveness;Governance (-2.5 to +2.5);2018;43,75;-0,252952486
+Grenada;Government Effectiveness;Number of Sources;2018;43,75;3
+Romania;Government Effectiveness;Standard Error;2018;43,269229889;0,198299184
+Romania;Government Effectiveness;Percentile Rank;2018;43,269229889;43,269229889
+Romania;Government Effectiveness;Governance (-2.5 to +2.5);2018;43,269229889;-0,253441751
+Romania;Government Effectiveness;Number of Sources;2018;43,269229889;9
+Ecuador;Government Effectiveness;Standard Error;2018;42,788459778;0,205418810
+Ecuador;Government Effectiveness;Percentile Rank;2018;42,788459778;42,788459778
+Ecuador;Government Effectiveness;Governance (-2.5 to +2.5);2018;42,788459778;-0,261397630
+Ecuador;Government Effectiveness;Number of Sources;2018;42,788459778;9
+Senegal;Government Effectiveness;Standard Error;2018;42,307693481;0,180598751
+Senegal;Government Effectiveness;Percentile Rank;2018;42,307693481;42,307693481
+Senegal;Government Effectiveness;Governance (-2.5 to +2.5);2018;42,307693481;-0,267815560
+Senegal;Government Effectiveness;Number of Sources;2018;42,307693481;12
+Guyana;Government Effectiveness;Standard Error;2018;41,826923370;0,250632226
+Guyana;Government Effectiveness;Percentile Rank;2018;41,826923370;41,826923370
+Guyana;Government Effectiveness;Governance (-2.5 to +2.5);2018;41,826923370;-0,269483864
+Guyana;Government Effectiveness;Number of Sources;2018;41,826923370;5
+Kiribati;Government Effectiveness;Standard Error;2018;41,346153259;0,349104464
+Kiribati;Government Effectiveness;Percentile Rank;2018;41,346153259;41,346153259
+Kiribati;Government Effectiveness;Governance (-2.5 to +2.5);2018;41,346153259;-0,276439250
+Kiribati;Government Effectiveness;Number of Sources;2018;41,346153259;3
+Dominica;Government Effectiveness;Standard Error;2018;40,865383148;0,349317253
+Dominica;Government Effectiveness;Percentile Rank;2018;40,865383148;40,865383148
+Dominica;Government Effectiveness;Governance (-2.5 to +2.5);2018;40,865383148;-0,289503425
+Dominica;Government Effectiveness;Number of Sources;2018;40,865383148;2
+Belarus;Government Effectiveness;Standard Error;2018;40,384616852;0,226014301
+Belarus;Government Effectiveness;Percentile Rank;2018;40,384616852;40,384616852
+Belarus;Government Effectiveness;Governance (-2.5 to +2.5);2018;40,384616852;-0,301030338
+Belarus;Government Effectiveness;Number of Sources;2018;40,384616852;7
+Bolivia;Government Effectiveness;Standard Error;2018;39,903846741;0,204272449
+Bolivia;Government Effectiveness;Percentile Rank;2018;39,903846741;39,903846741
+Bolivia;Government Effectiveness;Governance (-2.5 to +2.5);2018;39,903846741;-0,322099388
+Bolivia;Government Effectiveness;Number of Sources;2018;39,903846741;9
+Dominican Republic;Government Effectiveness;Standard Error;2018;39,423076630;0,191959038
+Dominican Republic;Government Effectiveness;Percentile Rank;2018;39,423076630;39,423076630
+Dominican Republic;Government Effectiveness;Governance (-2.5 to +2.5);2018;39,423076630;-0,400257349
+Dominican Republic;Government Effectiveness;Number of Sources;2018;39,423076630;10
+Kenya;Government Effectiveness;Standard Error;2018;38,942306519;0,180598751
+Kenya;Government Effectiveness;Percentile Rank;2018;38,942306519;38,942306519
+Kenya;Government Effectiveness;Governance (-2.5 to +2.5);2018;38,942306519;-0,410852253
+Kenya;Government Effectiveness;Number of Sources;2018;38,942306519;12
+Ukraine;Government Effectiveness;Standard Error;2018;38,461540222;0,198299184
+Ukraine;Government Effectiveness;Percentile Rank;2018;38,461540222;38,461540222
+Ukraine;Government Effectiveness;Governance (-2.5 to +2.5);2018;38,461540222;-0,415219933
+Ukraine;Government Effectiveness;Number of Sources;2018;38,461540222;9
+Kosovo;Government Effectiveness;Standard Error;2018;37,980770111;0,260806143
+Kosovo;Government Effectiveness;Percentile Rank;2018;37,980770111;37,980770111
+Kosovo;Government Effectiveness;Governance (-2.5 to +2.5);2018;37,980770111;-0,428305268
+Kosovo;Government Effectiveness;Number of Sources;2018;37,980770111;5
+Iran, Islamic Rep.;Government Effectiveness;Standard Error;2018;37,5;0,223385483
+Iran, Islamic Rep.;Government Effectiveness;Percentile Rank;2018;37,5;37,5
+Iran, Islamic Rep.;Government Effectiveness;Governance (-2.5 to +2.5);2018;37,5;-0,430217296
+Iran, Islamic Rep.;Government Effectiveness;Number of Sources;2018;37,5;8
+Algeria;Government Effectiveness;Standard Error;2018;37,019229889;0,194294557
+Algeria;Government Effectiveness;Percentile Rank;2018;37,019229889;37,019229889
+Algeria;Government Effectiveness;Governance (-2.5 to +2.5);2018;37,019229889;-0,443924606
+Algeria;Government Effectiveness;Number of Sources;2018;37,019229889;10
+El Salvador;Government Effectiveness;Standard Error;2018;36,538459778;0,191959038
+El Salvador;Government Effectiveness;Percentile Rank;2018;36,538459778;36,538459778
+El Salvador;Government Effectiveness;Governance (-2.5 to +2.5);2018;36,538459778;-0,447142482
+El Salvador;Government Effectiveness;Number of Sources;2018;36,538459778;10
+Brazil;Government Effectiveness;Standard Error;2018;36,057693481;0,183125407
+Brazil;Government Effectiveness;Percentile Rank;2018;36,057693481;36,057693481
+Brazil;Government Effectiveness;Governance (-2.5 to +2.5);2018;36,057693481;-0,447437376
+Brazil;Government Effectiveness;Number of Sources;2018;36,057693481;11
+Moldova;Government Effectiveness;Standard Error;2018;35,576923370;0,208405986
+Moldova;Government Effectiveness;Percentile Rank;2018;35,576923370;35,576923370
+Moldova;Government Effectiveness;Governance (-2.5 to +2.5);2018;35,576923370;-0,466520488
+Moldova;Government Effectiveness;Number of Sources;2018;35,576923370;8
+Maldives;Government Effectiveness;Standard Error;2018;35,096153259;0,339798212
+Maldives;Government Effectiveness;Percentile Rank;2018;35,096153259;35,096153259
+Maldives;Government Effectiveness;Governance (-2.5 to +2.5);2018;35,096153259;-0,488494068
+Maldives;Government Effectiveness;Number of Sources;2018;35,096153259;4
+Vanuatu;Government Effectiveness;Standard Error;2018;34,615383148;0,334536105
+Vanuatu;Government Effectiveness;Percentile Rank;2018;34,615383148;34,615383148
+Vanuatu;Government Effectiveness;Governance (-2.5 to +2.5);2018;34,615383148;-0,491711676
+Vanuatu;Government Effectiveness;Number of Sources;2018;34,615383148;4
+Paraguay;Government Effectiveness;Standard Error;2018;34,134616852;0,205418810
+Paraguay;Government Effectiveness;Percentile Rank;2018;34,134616852;34,134616852
+Paraguay;Government Effectiveness;Governance (-2.5 to +2.5);2018;34,134616852;-0,517214417
+Paraguay;Government Effectiveness;Number of Sources;2018;34,134616852;9
+Uzbekistan;Government Effectiveness;Standard Error;2018;33,653846741;0,238051087
+Uzbekistan;Government Effectiveness;Percentile Rank;2018;33,653846741;33,653846741
+Uzbekistan;Government Effectiveness;Governance (-2.5 to +2.5);2018;33,653846741;-0,547082782
+Uzbekistan;Government Effectiveness;Number of Sources;2018;33,653846741;8
+Zambia;Government Effectiveness;Standard Error;2018;33,173076630;0,187464803
+Zambia;Government Effectiveness;Percentile Rank;2018;33,173076630;33,173076630
+Zambia;Government Effectiveness;Governance (-2.5 to +2.5);2018;33,173076630;-0,559209287
+Zambia;Government Effectiveness;Number of Sources;2018;33,173076630;11
+Benin;Government Effectiveness;Standard Error;2018;32,692306519;0,189015836
+Benin;Government Effectiveness;Percentile Rank;2018;32,692306519;32,692306519
+Benin;Government Effectiveness;Governance (-2.5 to +2.5);2018;32,692306519;-0,565986633
+Benin;Government Effectiveness;Number of Sources;2018;32,692306519;11
+Cambodia;Government Effectiveness;Standard Error;2018;32,211540222;0,219160795
+Cambodia;Government Effectiveness;Percentile Rank;2018;32,211540222;32,211540222
+Cambodia;Government Effectiveness;Governance (-2.5 to +2.5);2018;32,211540222;-0,568605006
+Cambodia;Government Effectiveness;Number of Sources;2018;32,211540222;9
+Côte d'Ivoire;Government Effectiveness;Standard Error;2018;31,730770111;0,190738514
+Côte d'Ivoire;Government Effectiveness;Percentile Rank;2018;31,730770111;31,730770111
+Côte d'Ivoire;Government Effectiveness;Governance (-2.5 to +2.5);2018;31,730770111;-0,570518613
+Côte d'Ivoire;Government Effectiveness;Number of Sources;2018;31,730770111;11
+Burkina Faso;Government Effectiveness;Standard Error;2018;31,25;0,190738514
+Burkina Faso;Government Effectiveness;Percentile Rank;2018;31,25;31,25
+Burkina Faso;Government Effectiveness;Governance (-2.5 to +2.5);2018;31,25;-0,578342915
+Burkina Faso;Government Effectiveness;Number of Sources;2018;31,25;11
+Egypt, Arab Rep.;Government Effectiveness;Standard Error;2018;30,769229889;0,180598751
+Egypt, Arab Rep.;Government Effectiveness;Percentile Rank;2018;30,769229889;30,769229889
+Egypt, Arab Rep.;Government Effectiveness;Governance (-2.5 to +2.5);2018;30,769229889;-0,584804058
+Egypt, Arab Rep.;Government Effectiveness;Number of Sources;2018;30,769229889;12
+Belize;Government Effectiveness;Standard Error;2018;30,288461685;0,319280952
+Belize;Government Effectiveness;Percentile Rank;2018;30,288461685;30,288461685
+Belize;Government Effectiveness;Governance (-2.5 to +2.5);2018;30,288461685;-0,593888402
+Belize;Government Effectiveness;Number of Sources;2018;30,288461685;3
+Uganda;Government Effectiveness;Standard Error;2018;29,807691574;0,180598751
+Uganda;Government Effectiveness;Percentile Rank;2018;29,807691574;29,807691574
+Uganda;Government Effectiveness;Governance (-2.5 to +2.5);2018;29,807691574;-0,606039941
+Uganda;Government Effectiveness;Number of Sources;2018;29,807691574;12
+Ethiopia;Government Effectiveness;Standard Error;2018;29,326923370;0,180867627
+Ethiopia;Government Effectiveness;Percentile Rank;2018;29,326923370;29,326923370
+Ethiopia;Government Effectiveness;Governance (-2.5 to +2.5);2018;29,326923370;-0,607469678
+Ethiopia;Government Effectiveness;Number of Sources;2018;29,326923370;11
+Kyrgyz Republic;Government Effectiveness;Standard Error;2018;28,846153259;0,231776446
+Kyrgyz Republic;Government Effectiveness;Percentile Rank;2018;28,846153259;28,846153259
+Kyrgyz Republic;Government Effectiveness;Governance (-2.5 to +2.5);2018;28,846153259;-0,611537933
+Kyrgyz Republic;Government Effectiveness;Number of Sources;2018;28,846153259;8
+Bosnia and Herzegovina;Government Effectiveness;Standard Error;2018;28,365385056;0,219213381
+Bosnia and Herzegovina;Government Effectiveness;Percentile Rank;2018;28,365385056;28,365385056
+Bosnia and Herzegovina;Government Effectiveness;Governance (-2.5 to +2.5);2018;28,365385056;-0,618539810
+Bosnia and Herzegovina;Government Effectiveness;Number of Sources;2018;28,365385056;8
+Honduras;Government Effectiveness;Standard Error;2018;27,884614944;0,191959038
+Honduras;Government Effectiveness;Percentile Rank;2018;27,884614944;27,884614944
+Honduras;Government Effectiveness;Governance (-2.5 to +2.5);2018;27,884614944;-0,620658517
+Honduras;Government Effectiveness;Number of Sources;2018;27,884614944;10
+Gambia, The;Government Effectiveness;Standard Error;2018;27,403846741;0,188983828
+Gambia, The;Government Effectiveness;Percentile Rank;2018;27,403846741;27,403846741
+Gambia, The;Government Effectiveness;Governance (-2.5 to +2.5);2018;27,403846741;-0,623471200
+Gambia, The;Government Effectiveness;Number of Sources;2018;27,403846741;10
+Pakistan;Government Effectiveness;Standard Error;2018;26,923076630;0,206330240
+Pakistan;Government Effectiveness;Percentile Rank;2018;26,923076630;26,923076630
+Pakistan;Government Effectiveness;Governance (-2.5 to +2.5);2018;26,923076630;-0,633844316
+Pakistan;Government Effectiveness;Number of Sources;2018;26,923076630;10
+São Tomé and Principe;Government Effectiveness;Standard Error;2018;26,442308426;0,221241668
+São Tomé and Principe;Government Effectiveness;Percentile Rank;2018;26,442308426;26,442308426
+São Tomé and Principe;Government Effectiveness;Governance (-2.5 to +2.5);2018;26,442308426;-0,639390349
+São Tomé and Principe;Government Effectiveness;Number of Sources;2018;26,442308426;7
+Lebanon;Government Effectiveness;Standard Error;2018;25,961538315;0,223385483
+Lebanon;Government Effectiveness;Percentile Rank;2018;25,961538315;25,961538315
+Lebanon;Government Effectiveness;Governance (-2.5 to +2.5);2018;25,961538315;-0,640202343
+Lebanon;Government Effectiveness;Number of Sources;2018;25,961538315;8
+Suriname;Government Effectiveness;Standard Error;2018;25,480770111;0,291738719
+Suriname;Government Effectiveness;Percentile Rank;2018;25,480770111;25,480770111
+Suriname;Government Effectiveness;Governance (-2.5 to +2.5);2018;25,480770111;-0,655303657
+Suriname;Government Effectiveness;Number of Sources;2018;25,480770111;3
+Swaziland;Government Effectiveness;Standard Error;2018;25;0,217393309
+Swaziland;Government Effectiveness;Percentile Rank;2018;25;25
+Swaziland;Government Effectiveness;Governance (-2.5 to +2.5);2018;25;-0,659946799
+Swaziland;Government Effectiveness;Number of Sources;2018;25;7
+Lao PDR;Government Effectiveness;Standard Error;2018;24,519229889;0,221598804
+Lao PDR;Government Effectiveness;Percentile Rank;2018;24,519229889;24,519229889
+Lao PDR;Government Effectiveness;Governance (-2.5 to +2.5);2018;24,519229889;-0,672724009
+Lao PDR;Government Effectiveness;Number of Sources;2018;24,519229889;8
+Papua New Guinea;Government Effectiveness;Standard Error;2018;24,038461685;0,237987190
+Papua New Guinea;Government Effectiveness;Percentile Rank;2018;24,038461685;24,038461685
+Papua New Guinea;Government Effectiveness;Governance (-2.5 to +2.5);2018;24,038461685;-0,677340209
+Papua New Guinea;Government Effectiveness;Number of Sources;2018;24,038461685;7
+Guatemala;Government Effectiveness;Standard Error;2018;23,557691574;0,191959038
+Guatemala;Government Effectiveness;Percentile Rank;2018;23,557691574;23,557691574
+Guatemala;Government Effectiveness;Governance (-2.5 to +2.5);2018;23,557691574;-0,682006061
+Guatemala;Government Effectiveness;Number of Sources;2018;23,557691574;10
+Tuvalu;Government Effectiveness;Standard Error;2018;23,076923370;0,349104464
+Tuvalu;Government Effectiveness;Percentile Rank;2018;23,076923370;23,076923370
+Tuvalu;Government Effectiveness;Governance (-2.5 to +2.5);2018;23,076923370;-0,693651795
+Tuvalu;Government Effectiveness;Number of Sources;2018;23,076923370;3
+Mauritania;Government Effectiveness;Standard Error;2018;22,596153259;0,189324141
+Mauritania;Government Effectiveness;Percentile Rank;2018;22,596153259;22,596153259
+Mauritania;Government Effectiveness;Governance (-2.5 to +2.5);2018;22,596153259;-0,726632476
+Mauritania;Government Effectiveness;Number of Sources;2018;22,596153259;10
+Malawi;Government Effectiveness;Standard Error;2018;22,115385056;0,187464803
+Malawi;Government Effectiveness;Percentile Rank;2018;22,115385056;22,115385056
+Malawi;Government Effectiveness;Governance (-2.5 to +2.5);2018;22,115385056;-0,728670537
+Malawi;Government Effectiveness;Number of Sources;2018;22,115385056;11
+Bangladesh;Government Effectiveness;Standard Error;2018;21,634614944;0,206330240
+Bangladesh;Government Effectiveness;Percentile Rank;2018;21,634614944;21,634614944
+Bangladesh;Government Effectiveness;Governance (-2.5 to +2.5);2018;21,634614944;-0,748399317
+Bangladesh;Government Effectiveness;Number of Sources;2018;21,634614944;10
+Tanzania;Government Effectiveness;Standard Error;2018;21,153846741;0,180598751
+Tanzania;Government Effectiveness;Percentile Rank;2018;21,153846741;21,153846741
+Tanzania;Government Effectiveness;Governance (-2.5 to +2.5);2018;21,153846741;-0,756265819
+Tanzania;Government Effectiveness;Number of Sources;2018;21,153846741;12
+West Bank and Gaza;Government Effectiveness;Standard Error;2018;20,673076630;0,323845893
+West Bank and Gaza;Government Effectiveness;Percentile Rank;2018;20,673076630;20,673076630
+West Bank and Gaza;Government Effectiveness;Governance (-2.5 to +2.5);2018;20,673076630;-0,760890245
+West Bank and Gaza;Government Effectiveness;Number of Sources;2018;20,673076630;3
+Niger;Government Effectiveness;Standard Error;2018;20,192308426;0,190738514
+Niger;Government Effectiveness;Percentile Rank;2018;20,192308426;20,192308426
+Niger;Government Effectiveness;Governance (-2.5 to +2.5);2018;20,192308426;-0,766042531
+Niger;Government Effectiveness;Number of Sources;2018;20,192308426;11
+Cameroon;Government Effectiveness;Standard Error;2018;19,711538315;0,180598751
+Cameroon;Government Effectiveness;Percentile Rank;2018;19,711538315;19,711538315
+Cameroon;Government Effectiveness;Governance (-2.5 to +2.5);2018;19,711538315;-0,799652517
+Cameroon;Government Effectiveness;Number of Sources;2018;19,711538315;12
+Nicaragua;Government Effectiveness;Standard Error;2018;19,230770111;0,191959038
+Nicaragua;Government Effectiveness;Percentile Rank;2018;19,230770111;19,230770111
+Nicaragua;Government Effectiveness;Governance (-2.5 to +2.5);2018;19,230770111;-0,802469909
+Nicaragua;Government Effectiveness;Number of Sources;2018;19,230770111;10
+Gabon;Government Effectiveness;Standard Error;2018;18,75;0,190738514
+Gabon;Government Effectiveness;Percentile Rank;2018;18,75;18,75
+Gabon;Government Effectiveness;Governance (-2.5 to +2.5);2018;18,75;-0,812283397
+Gabon;Government Effectiveness;Number of Sources;2018;18,75;11
+Lesotho;Government Effectiveness;Standard Error;2018;18,269229889;0,199780002
+Lesotho;Government Effectiveness;Percentile Rank;2018;18,269229889;18,269229889
+Lesotho;Government Effectiveness;Governance (-2.5 to +2.5);2018;18,269229889;-0,860905707
+Lesotho;Government Effectiveness;Number of Sources;2018;18,269229889;9
+Mozambique;Government Effectiveness;Standard Error;2018;17,788461685;0,181955710
+Mozambique;Government Effectiveness;Percentile Rank;2018;17,788461685;17,788461685
+Mozambique;Government Effectiveness;Governance (-2.5 to +2.5);2018;17,788461685;-0,874281287
+Mozambique;Government Effectiveness;Number of Sources;2018;17,788461685;11
+Djibouti;Government Effectiveness;Standard Error;2018;17,307691574;0,212884247
+Djibouti;Government Effectiveness;Percentile Rank;2018;17,307691574;17,307691574
+Djibouti;Government Effectiveness;Governance (-2.5 to +2.5);2018;17,307691574;-0,899096608
+Djibouti;Government Effectiveness;Number of Sources;2018;17,307691574;7
+Nepal;Government Effectiveness;Standard Error;2018;16,826923370;0,219160795
+Nepal;Government Effectiveness;Percentile Rank;2018;16,826923370;16,826923370
+Nepal;Government Effectiveness;Governance (-2.5 to +2.5);2018;16,826923370;-0,902338326
+Nepal;Government Effectiveness;Number of Sources;2018;16,826923370;9
+Guinea;Government Effectiveness;Standard Error;2018;16,346153259;0,180598751
+Guinea;Government Effectiveness;Percentile Rank;2018;16,346153259;16,346153259
+Guinea;Government Effectiveness;Governance (-2.5 to +2.5);2018;16,346153259;-0,970923185
+Guinea;Government Effectiveness;Number of Sources;2018;16,346153259;12
+Timor-Leste;Government Effectiveness;Standard Error;2018;15,865385056;0,264850825
+Timor-Leste;Government Effectiveness;Percentile Rank;2018;15,865385056;15,865385056
+Timor-Leste;Government Effectiveness;Governance (-2.5 to +2.5);2018;15,865385056;-0,982607365
+Timor-Leste;Government Effectiveness;Number of Sources;2018;15,865385056;5
+Mali;Government Effectiveness;Standard Error;2018;15,384614944;0,180598751
+Mali;Government Effectiveness;Percentile Rank;2018;15,384614944;15,384614944
+Mali;Government Effectiveness;Governance (-2.5 to +2.5);2018;15,384614944;-1,004637957
+Mali;Government Effectiveness;Number of Sources;2018;15,384614944;12
+Nigeria;Government Effectiveness;Standard Error;2018;14,903845787;0,180598751
+Nigeria;Government Effectiveness;Percentile Rank;2018;14,903845787;14,903845787
+Nigeria;Government Effectiveness;Governance (-2.5 to +2.5);2018;14,903845787;-1,022590756
+Nigeria;Government Effectiveness;Number of Sources;2018;14,903845787;12
+Turkmenistan;Government Effectiveness;Standard Error;2018;14,423076630;0,297987401
+Turkmenistan;Government Effectiveness;Percentile Rank;2018;14,423076630;14,423076630
+Turkmenistan;Government Effectiveness;Governance (-2.5 to +2.5);2018;14,423076630;-1,044101954
+Turkmenistan;Government Effectiveness;Number of Sources;2018;14,423076630;4
+Angola;Government Effectiveness;Standard Error;2018;13,942307472;0,192664087
+Angola;Government Effectiveness;Percentile Rank;2018;13,942307472;13,942307472
+Angola;Government Effectiveness;Governance (-2.5 to +2.5);2018;13,942307472;-1,052086353
+Angola;Government Effectiveness;Number of Sources;2018;13,942307472;9
+Solomon Islands;Government Effectiveness;Standard Error;2018;13,461538315;0,349104464
+Solomon Islands;Government Effectiveness;Percentile Rank;2018;13,461538315;13,461538315
+Solomon Islands;Government Effectiveness;Governance (-2.5 to +2.5);2018;13,461538315;-1,054240704
+Solomon Islands;Government Effectiveness;Number of Sources;2018;13,461538315;3
+Togo;Government Effectiveness;Standard Error;2018;12,980769157;0,190738514
+Togo;Government Effectiveness;Percentile Rank;2018;12,980769157;12,980769157
+Togo;Government Effectiveness;Governance (-2.5 to +2.5);2018;12,980769157;-1,057791114
+Togo;Government Effectiveness;Number of Sources;2018;12,980769157;11
+Myanmar;Government Effectiveness;Standard Error;2018;12,5;0,221858889
+Myanmar;Government Effectiveness;Percentile Rank;2018;12,5;12,5
+Myanmar;Government Effectiveness;Governance (-2.5 to +2.5);2018;12,5;-1,068651795
+Myanmar;Government Effectiveness;Number of Sources;2018;12,5;9
+Tajikistan;Government Effectiveness;Standard Error;2018;12,019230843;0,238051087
+Tajikistan;Government Effectiveness;Percentile Rank;2018;12,019230843;12,019230843
+Tajikistan;Government Effectiveness;Governance (-2.5 to +2.5);2018;12,019230843;-1,097703934
+Tajikistan;Government Effectiveness;Number of Sources;2018;12,019230843;8
+Sierra Leone;Government Effectiveness;Standard Error;2018;11,538461685;0,187464803
+Sierra Leone;Government Effectiveness;Percentile Rank;2018;11,538461685;11,538461685
+Sierra Leone;Government Effectiveness;Governance (-2.5 to +2.5);2018;11,538461685;-1,142947793
+Sierra Leone;Government Effectiveness;Number of Sources;2018;11,538461685;11
+Madagascar;Government Effectiveness;Standard Error;2018;11,057692528;0,190738514
+Madagascar;Government Effectiveness;Percentile Rank;2018;11,057692528;11,057692528
+Madagascar;Government Effectiveness;Governance (-2.5 to +2.5);2018;11,057692528;-1,153121233
+Madagascar;Government Effectiveness;Number of Sources;2018;11,057692528;11
+Zimbabwe;Government Effectiveness;Standard Error;2018;10,576923370;0,180598751
+Zimbabwe;Government Effectiveness;Percentile Rank;2018;10,576923370;10,576923370
+Zimbabwe;Government Effectiveness;Governance (-2.5 to +2.5);2018;10,576923370;-1,198860049
+Zimbabwe;Government Effectiveness;Number of Sources;2018;10,576923370;12
+Congo, Rep.;Government Effectiveness;Standard Error;2018;10,096154213;0,191055357
+Congo, Rep.;Government Effectiveness;Percentile Rank;2018;10,096154213;10,096154213
+Congo, Rep.;Government Effectiveness;Governance (-2.5 to +2.5);2018;10,096154213;-1,217235804
+Congo, Rep.;Government Effectiveness;Number of Sources;2018;10,096154213;10
+Equatorial Guinea;Government Effectiveness;Standard Error;2018;9,615385056;0,236390293
+Equatorial Guinea;Government Effectiveness;Percentile Rank;2018;9,615385056;9,615385056
+Equatorial Guinea;Government Effectiveness;Governance (-2.5 to +2.5);2018;9,615385056;-1,294380069
+Equatorial Guinea;Government Effectiveness;Number of Sources;2018;9,615385056;5
+Iraq;Government Effectiveness;Standard Error;2018;9,134614944;0,221913472
+Iraq;Government Effectiveness;Percentile Rank;2018;9,134614944;9,134614944
+Iraq;Government Effectiveness;Governance (-2.5 to +2.5);2018;9,134614944;-1,320548177
+Iraq;Government Effectiveness;Number of Sources;2018;9,134614944;8
+Liberia;Government Effectiveness;Standard Error;2018;8,653845787;0,187464803
+Liberia;Government Effectiveness;Percentile Rank;2018;8,653845787;8,653845787
+Liberia;Government Effectiveness;Governance (-2.5 to +2.5);2018;8,653845787;-1,340830564
+Liberia;Government Effectiveness;Number of Sources;2018;8,653845787;11
+Burundi;Government Effectiveness;Standard Error;2018;8,173076630;0,190889180
+Burundi;Government Effectiveness;Percentile Rank;2018;8,173076630;8,173076630
+Burundi;Government Effectiveness;Governance (-2.5 to +2.5);2018;8,173076630;-1,419981599
+Burundi;Government Effectiveness;Number of Sources;2018;8,173076630;9
+Afghanistan;Government Effectiveness;Standard Error;2018;7,692307472;0,238051087
+Afghanistan;Government Effectiveness;Percentile Rank;2018;7,692307472;7,692307472
+Afghanistan;Government Effectiveness;Governance (-2.5 to +2.5);2018;7,692307472;-1,457285285
+Afghanistan;Government Effectiveness;Number of Sources;2018;7,692307472;8
+Guinea-Bissau;Government Effectiveness;Standard Error;2018;7,211538315;0,221343219
+Guinea-Bissau;Government Effectiveness;Percentile Rank;2018;7,211538315;7,211538315
+Guinea-Bissau;Government Effectiveness;Governance (-2.5 to +2.5);2018;7,211538315;-1,487850308
+Guinea-Bissau;Government Effectiveness;Number of Sources;2018;7,211538315;7
+Chad;Government Effectiveness;Standard Error;2018;6,730769157;0,189324141
+Chad;Government Effectiveness;Percentile Rank;2018;6,730769157;6,730769157
+Chad;Government Effectiveness;Governance (-2.5 to +2.5);2018;6,730769157;-1,528846622
+Chad;Government Effectiveness;Number of Sources;2018;6,730769157;10
+Marshall Islands;Government Effectiveness;Standard Error;2018;6,25;0,479484409
+Marshall Islands;Government Effectiveness;Percentile Rank;2018;6,25;6,25
+Marshall Islands;Government Effectiveness;Governance (-2.5 to +2.5);2018;6,25;-1,554391146
+Marshall Islands;Government Effectiveness;Number of Sources;2018;6,25;2
+Congo, Dem. Rep.;Government Effectiveness;Standard Error;2018;5,769230843;0,187765598
+Congo, Dem. Rep.;Government Effectiveness;Percentile Rank;2018;5,769230843;5,769230843
+Congo, Dem. Rep.;Government Effectiveness;Governance (-2.5 to +2.5);2018;5,769230843;-1,554787278
+Congo, Dem. Rep.;Government Effectiveness;Number of Sources;2018;5,769230843;10
+Korea, Dem. Rep.;Government Effectiveness;Standard Error;2018;5,288461685;0,265315026
+Korea, Dem. Rep.;Government Effectiveness;Percentile Rank;2018;5,288461685;5,288461685
+Korea, Dem. Rep.;Government Effectiveness;Governance (-2.5 to +2.5);2018;5,288461685;-1,572759509
+Korea, Dem. Rep.;Government Effectiveness;Number of Sources;2018;5,288461685;5
+Venezuela, RB;Government Effectiveness;Standard Error;2018;4,807692528;0,194699287
+Venezuela, RB;Government Effectiveness;Percentile Rank;2018;4,807692528;4,807692528
+Venezuela, RB;Government Effectiveness;Governance (-2.5 to +2.5);2018;4,807692528;-1,581517458
+Venezuela, RB;Government Effectiveness;Number of Sources;2018;4,807692528;10
+Sudan;Government Effectiveness;Standard Error;2018;4,326922894;0,192339197
+Sudan;Government Effectiveness;Percentile Rank;2018;4,326922894;4,326922894
+Sudan;Government Effectiveness;Governance (-2.5 to +2.5);2018;4,326922894;-1,619856596
+Sudan;Government Effectiveness;Number of Sources;2018;4,326922894;10
+Comoros;Government Effectiveness;Standard Error;2018;3,846153736;0,234278589
+Comoros;Government Effectiveness;Percentile Rank;2018;3,846153736;3,846153736
+Comoros;Government Effectiveness;Governance (-2.5 to +2.5);2018;3,846153736;-1,639134169
+Comoros;Government Effectiveness;Number of Sources;2018;3,846153736;6
+Syrian Arab Republic;Government Effectiveness;Standard Error;2018;3,365384579;0,272408307
+Syrian Arab Republic;Government Effectiveness;Percentile Rank;2018;3,365384579;3,365384579
+Syrian Arab Republic;Government Effectiveness;Governance (-2.5 to +2.5);2018;3,365384579;-1,671169043
+Syrian Arab Republic;Government Effectiveness;Number of Sources;2018;3,365384579;4
+Central African Republic;Government Effectiveness;Standard Error;2018;2,884615421;0,201105848
+Central African Republic;Government Effectiveness;Percentile Rank;2018;2,884615421;2,884615421
+Central African Republic;Government Effectiveness;Governance (-2.5 to +2.5);2018;2,884615421;-1,720416784
+Central African Republic;Government Effectiveness;Number of Sources;2018;2,884615421;9
+Eritrea;Government Effectiveness;Standard Error;2018;2,403846264;0,202984631
+Eritrea;Government Effectiveness;Percentile Rank;2018;2,403846264;2,403846264
+Eritrea;Government Effectiveness;Governance (-2.5 to +2.5);2018;2,403846264;-1,727731705
+Eritrea;Government Effectiveness;Number of Sources;2018;2,403846264;8
+Libya;Government Effectiveness;Standard Error;2018;1,923076868;0,207499415
+Libya;Government Effectiveness;Percentile Rank;2018;1,923076868;1,923076868
+Libya;Government Effectiveness;Governance (-2.5 to +2.5);2018;1,923076868;-1,847037077
+Libya;Government Effectiveness;Number of Sources;2018;1,923076868;8
+Haiti;Government Effectiveness;Standard Error;2018;1,442307711;0,206374124
+Haiti;Government Effectiveness;Percentile Rank;2018;1,442307711;1,442307711
+Haiti;Government Effectiveness;Governance (-2.5 to +2.5);2018;1,442307711;-1,909053683
+Haiti;Government Effectiveness;Number of Sources;2018;1,442307711;9
+Somalia;Government Effectiveness;Standard Error;2018;0,961538434;0,193653598
+Somalia;Government Effectiveness;Percentile Rank;2018;0,961538434;0,961538434
+Somalia;Government Effectiveness;Governance (-2.5 to +2.5);2018;0,961538434;-2,191029787
+Somalia;Government Effectiveness;Number of Sources;2018;0,961538434;9
+Yemen, Rep.;Government Effectiveness;Standard Error;2018;0,480769217;0,216804117
+Yemen, Rep.;Government Effectiveness;Percentile Rank;2018;0,480769217;0,480769217
+Yemen, Rep.;Government Effectiveness;Governance (-2.5 to +2.5);2018;0,480769217;-2,244353771
+Yemen, Rep.;Government Effectiveness;Number of Sources;2018;0,480769217;8
+South Sudan;Government Effectiveness;Standard Error;2018;0;0,221394613
+South Sudan;Government Effectiveness;Percentile Rank;2018;0;0
+South Sudan;Government Effectiveness;Governance (-2.5 to +2.5);2018;0;-2,449409246
+South Sudan;Government Effectiveness;Number of Sources;2018;0;8
+San Marino;Government Effectiveness;Standard Error;2018;;
+San Marino;Government Effectiveness;Percentile Rank;2018;;
+San Marino;Government Effectiveness;Governance (-2.5 to +2.5);2018;;
+San Marino;Government Effectiveness;Number of Sources;2018;;
+Niue;Government Effectiveness;Standard Error;2018;;
+Niue;Government Effectiveness;Percentile Rank;2018;;
+Niue;Government Effectiveness;Governance (-2.5 to +2.5);2018;;
+Niue;Government Effectiveness;Number of Sources;2018;;
+Netherlands Antilles (former);Government Effectiveness;Standard Error;2018;;
+Netherlands Antilles (former);Government Effectiveness;Percentile Rank;2018;;
+Netherlands Antilles (former);Government Effectiveness;Governance (-2.5 to +2.5);2018;;
+Netherlands Antilles (former);Government Effectiveness;Number of Sources;2018;;
+Monaco;Government Effectiveness;Standard Error;2018;;
+Monaco;Government Effectiveness;Percentile Rank;2018;;
+Monaco;Government Effectiveness;Governance (-2.5 to +2.5);2018;;
+Monaco;Government Effectiveness;Number of Sources;2018;;
+Cook Islands;Government Effectiveness;Standard Error;2018;;
+Cook Islands;Government Effectiveness;Percentile Rank;2018;;
+Cook Islands;Government Effectiveness;Governance (-2.5 to +2.5);2018;;
+Cook Islands;Government Effectiveness;Number of Sources;2018;;
